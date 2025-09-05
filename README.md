@@ -20,10 +20,11 @@
               System.out.println("Game exited ! the correct answer is echo.");
               break; 
               
-   } else {
+        } else {
               System.out.println("Wrong! Try again or(type 'quite' to exite) ");
           }
       }
             
-  }
-}
+       }
+     }
+     
